@@ -1,7 +1,7 @@
 # A guide to use Builer pattern with Lombok's @Builder annotation
 ![pb_Hp8ci_400x400](https://user-images.githubusercontent.com/91077741/134535137-6eb9425f-99e1-42c1-9195-c3a289135d70.jpg)
 
-This project is to demonstrate how we can implement Builder Pattern with project Lombok.
+This project is to demonstrate how we can implement Builder Pattern with project Lombok's @Builder annotation.
 
 # Technology Stack
 This project has been built and tested on Intellij IDEA with the following technologies.
